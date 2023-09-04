@@ -24,6 +24,8 @@ fun main(args: Array<String>) {
     println(mix(BLUE, YELLOW))
     println(mix(YELLOW, RED))
 
+
+
 }
 
 fun mix(c1: Color, c2: Color) =
